@@ -1,192 +1,173 @@
 {
+    "header": {
+        "id": 3,
+        "title": "Image Enhance",
+        "image_path": "ai_tools/enhance.webp",
+        "gems": 3,
+        "is_pro": false,
+        "max_width": 1024,
+        "max_height": 1024
+    },
     "data": [
         {
-            "id": 3,
-            "is_header": true,
-            "title": "Image Enhance",
-            "image_path": "ai_tools/enhance.webp",
-            "gems": 3,
-            "is_pro": 0,
-            "max_width": 1024,
-            "max_height": 1024
-        },
-        {
             "id": 1,
-            "is_header": false,
             "title": "Repair",
             "image_path": "ai_tools/repair.webp",
             "gems": 4,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 6,
-            "is_header": false,
             "title": "Background Removal",
             "image_path": "ai_tools/remove_background.webp",
             "gems": 2,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 9,
-            "is_header": false,
             "title": "Super HD",
             "image_path": "ai_tools/super_hd.webp",
             "gems": 2,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 200,
-            "is_header": false,
             "title": "Remove Object",
             "image_path": "ai_tools/remove_object.webp",
             "gems": 3,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 18,
-            "is_header": false,
             "title": "Portrait Beautification",
             "image_path": "ai_tools/portrait_beautification.webp",
             "gems": 3,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 4,
-            "is_header": false,
             "title": "Stretch Repair",
             "image_path": "ai_tools/stretch_repair.webp",
             "gems": 2,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 5,
-            "is_header": false,
             "title": "Correction",
             "image_path": "ai_tools/correction.webp",
             "gems": 3,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 2,
-            "is_header": false,
             "title": "Colorizer",
             "image_path": "ai_tools/colorizer.webp",
             "gems": 3,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 38,
-            "is_header": false,
             "title": "Age transition",
             "image_path": "ai_tools/age_transition.webp",
             "gems": 3,
-            "is_pro": 0,
+            "is_pro": false,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 10,
-            "is_header": false,
             "title": "Animate",
             "image_path": "ai_tools/animate.webp",
             "gems": 8,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 8,
-            "is_header": false,
             "title": "Image Flow",
             "image_path": "ai_tools/image_flow.webp",
             "gems": 3,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 7,
-            "is_header": false,
             "title": "Dynamic Zoom",
             "image_path": "ai_tools/dynamic_zoom.webp",
             "gems": 5,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 16,
-            "is_header": false,
             "title": "Open Eyes",
             "image_path": "ai_tools/open_eyes.webp",
             "gems": 4,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 11,
-            "is_header": false,
             "title": "Pixar Effects",
             "image_path": "ai_tools/pixar_effects.webp",
             "gems": 10,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 12,
-            "is_header": false,
             "title": "3D Cartoon Avatar",
             "image_path": "ai_tools/3d_cartoon_avatar.webp",
             "gems": 10,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 13,
-            "is_header": false,
             "title": "Angel",
             "image_path": "ai_tools/angel.webp",
             "gems": 10,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 14,
-            "is_header": false,
             "title": "Demon",
             "image_path": "ai_tools/demon.webp",
             "gems": 10,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         },
         {
             "id": 15,
-            "is_header": false,
             "title": "Cartoonized",
             "image_path": "ai_tools/cartoonized.webp",
             "gems": 10,
-            "is_pro": 1,
+            "is_pro": true,
             "max_width": 1024,
             "max_height": 1024
         }
