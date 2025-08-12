@@ -2,7 +2,8 @@
     "header": {
         "id": 3,
         "title": "Image Enhance",
-        "image_path": "ai_tools/enhance.webp",
+        "image_path": "webp/ai_tools/enhance.webp",
+        "video_path": "video/ai_tools/enhance.mp4",
         "gems": 3,
         "is_pro": false,
         "max_width": 1024,
@@ -12,7 +13,8 @@
         {
             "id": 1,
             "title": "Repair",
-            "image_path": "ai_tools/repair.webp",
+            "image_path": "webp/ai_tools/repair.webp",
+            "video_path": "video/ai_tools/repair.mp4",
             "gems": 4,
             "is_pro": false,
             "max_width": 1024,
@@ -21,7 +23,8 @@
         {
             "id": 6,
             "title": "Background Removal",
-            "image_path": "ai_tools/remove_background.webp",
+            "image_path": "webp/ai_tools/remove_background.webp",
+            "video_path": "video/ai_tools/remove_background.mp4",
             "gems": 2,
             "is_pro": false,
             "max_width": 1024,
@@ -30,7 +33,8 @@
         {
             "id": 9,
             "title": "Super HD",
-            "image_path": "ai_tools/super_hd.webp",
+            "image_path": "webp/ai_tools/super_hd.webp",
+            "video_path": "video/ai_tools/super_hd.mp4",
             "gems": 2,
             "is_pro": false,
             "max_width": 1024,
@@ -39,7 +43,8 @@
         {
             "id": 200,
             "title": "Remove Object",
-            "image_path": "ai_tools/remove_object.webp",
+            "image_path": "webp/ai_tools/remove_object.webp",
+            "video_path": "video/ai_tools/remove_object.mp4",
             "gems": 3,
             "is_pro": false,
             "max_width": 1024,
@@ -48,7 +53,8 @@
         {
             "id": 18,
             "title": "Portrait Beautification",
-            "image_path": "ai_tools/portrait_beautification.webp",
+            "image_path": "webp/ai_tools/portrait_beautification.webp",
+            "video_path": "video/ai_tools/portrait_beautification.mp4",
             "gems": 3,
             "is_pro": false,
             "max_width": 1024,
@@ -57,7 +63,8 @@
         {
             "id": 4,
             "title": "Stretch Repair",
-            "image_path": "ai_tools/stretch_repair.webp",
+            "image_path": "webp/ai_tools/stretch_repair.webp",
+            "video_path": "video/ai_tools/stretch_repair.mp4",
             "gems": 2,
             "is_pro": false,
             "max_width": 1024,
@@ -66,7 +73,8 @@
         {
             "id": 5,
             "title": "Correction",
-            "image_path": "ai_tools/correction.webp",
+            "image_path": "webp/ai_tools/correction.webp",
+            "video_path": "video/ai_tools/correction.mp4",
             "gems": 3,
             "is_pro": false,
             "max_width": 1024,
@@ -75,7 +83,8 @@
         {
             "id": 2,
             "title": "Colorizer",
-            "image_path": "ai_tools/colorizer.webp",
+            "image_path": "webp/ai_tools/colorizer.webp",
+            "video_path": "video/ai_tools/colorizer.mp4",
             "gems": 3,
             "is_pro": false,
             "max_width": 1024,
@@ -84,7 +93,8 @@
         {
             "id": 38,
             "title": "Age transition",
-            "image_path": "ai_tools/age_transition.webp",
+            "image_path": "webp/ai_tools/age_transition.webp",
+            "video_path": "video/ai_tools/age_transition.mp4",
             "gems": 3,
             "is_pro": false,
             "max_width": 1024,
@@ -93,7 +103,8 @@
         {
             "id": 10,
             "title": "Animate",
-            "image_path": "ai_tools/animate.webp",
+            "image_path": "webp/ai_tools/animate.webp",
+            "video_path": "video/ai_tools/animate.mp4",
             "gems": 8,
             "is_pro": true,
             "max_width": 1024,
@@ -102,7 +113,8 @@
         {
             "id": 8,
             "title": "Image Flow",
-            "image_path": "ai_tools/image_flow.webp",
+            "image_path": "webp/ai_tools/image_flow.webp",
+            "video_path": "video/ai_tools/image_flow.mp4",
             "gems": 3,
             "is_pro": true,
             "max_width": 1024,
@@ -111,7 +123,8 @@
         {
             "id": 7,
             "title": "Dynamic Zoom",
-            "image_path": "ai_tools/dynamic_zoom.webp",
+            "image_path": "webp/ai_tools/dynamic_zoom.webp",
+            "video_path": "video/ai_tools/dynamic_zoom.mp4",
             "gems": 5,
             "is_pro": true,
             "max_width": 1024,
@@ -120,7 +133,8 @@
         {
             "id": 16,
             "title": "Open Eyes",
-            "image_path": "ai_tools/open_eyes.webp",
+            "image_path": "webp/ai_tools/open_eyes.webp",
+            "video_path": "video/ai_tools/open_eyes.mp4",
             "gems": 4,
             "is_pro": true,
             "max_width": 1024,
@@ -129,7 +143,8 @@
         {
             "id": 11,
             "title": "Pixar Effects",
-            "image_path": "ai_tools/pixar_effects.webp",
+            "image_path": "webp/ai_tools/pixar_effects.webp",
+            "video_path": "video/ai_tools/pixar_effects.mp4",
             "gems": 10,
             "is_pro": true,
             "max_width": 1024,
@@ -138,7 +153,8 @@
         {
             "id": 12,
             "title": "3D Cartoon Avatar",
-            "image_path": "ai_tools/3d_cartoon_avatar.webp",
+            "image_path": "webp/ai_tools/3d_cartoon_avatar.webp",
+            "video_path": "video/ai_tools/3d_cartoon_avatar.mp4",
             "gems": 10,
             "is_pro": true,
             "max_width": 1024,
@@ -147,7 +163,8 @@
         {
             "id": 13,
             "title": "Angel",
-            "image_path": "ai_tools/angel.webp",
+            "image_path": "webp/ai_tools/angel.webp",
+            "video_path": "video/ai_tools/angel.mp4",
             "gems": 10,
             "is_pro": true,
             "max_width": 1024,
@@ -156,7 +173,8 @@
         {
             "id": 14,
             "title": "Demon",
-            "image_path": "ai_tools/demon.webp",
+            "image_path": "webp/ai_tools/demon.webp",
+            "video_path": "video/ai_tools/demon.mp4",
             "gems": 10,
             "is_pro": true,
             "max_width": 1024,
@@ -165,7 +183,8 @@
         {
             "id": 15,
             "title": "Cartoonized",
-            "image_path": "ai_tools/cartoonized.webp",
+            "image_path": "webp/ai_tools/cartoonized.webp",
+            "video_path": "video/ai_tools/cartoonized.mp4",
             "gems": 10,
             "is_pro": true,
             "max_width": 1024,
