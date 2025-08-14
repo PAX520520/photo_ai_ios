@@ -1,6 +1,6 @@
 {
     "header": {
-        "id": 3,
+        "effect_id": 3,
         "title": "Image Enhance",
         "image_path": "webp/ai_tools/enhance.webp",
         "video_path": "video/ai_tools/enhance.mp4",
@@ -11,7 +11,7 @@
     },
     "data": [
         {
-            "id": 1,
+            "effect_id": 1,
             "title": "Repair",
             "image_path": "webp/ai_tools/repair.webp",
             "video_path": "video/ai_tools/repair.mp4",
@@ -21,7 +21,7 @@
             "max_height": 1024
         },
         {
-            "id": 6,
+            "effect_id": 6,
             "title": "Background Removal",
             "image_path": "webp/ai_tools/remove_background.webp",
             "video_path": "video/ai_tools/remove_background.mp4",
@@ -31,7 +31,7 @@
             "max_height": 1024
         },
         {
-            "id": 9,
+            "effect_id": 9,
             "title": "Super HD",
             "image_path": "webp/ai_tools/super_hd.webp",
             "video_path": "video/ai_tools/super_hd.mp4",
@@ -41,7 +41,7 @@
             "max_height": 1024
         },
         {
-            "id": 200,
+            "effect_id": 200,
             "title": "Remove Object",
             "image_path": "webp/ai_tools/remove_object.webp",
             "video_path": "video/ai_tools/remove_object.mp4",
@@ -51,7 +51,7 @@
             "max_height": 1024
         },
         {
-            "id": 18,
+            "effect_id": 18,
             "title": "Portrait Beautification",
             "image_path": "webp/ai_tools/portrait_beautification.webp",
             "video_path": "video/ai_tools/portrait_beautification.mp4",
@@ -61,7 +61,7 @@
             "max_height": 1024
         },
         {
-            "id": 4,
+            "effect_id": 4,
             "title": "Stretch Repair",
             "image_path": "webp/ai_tools/stretch_repair.webp",
             "video_path": "video/ai_tools/stretch_repair.mp4",
@@ -71,7 +71,7 @@
             "max_height": 1024
         },
         {
-            "id": 5,
+            "effect_id": 5,
             "title": "Correction",
             "image_path": "webp/ai_tools/correction.webp",
             "video_path": "video/ai_tools/correction.mp4",
@@ -81,7 +81,7 @@
             "max_height": 1024
         },
         {
-            "id": 2,
+            "effect_id": 2,
             "title": "Colorizer",
             "image_path": "webp/ai_tools/colorizer.webp",
             "video_path": "video/ai_tools/colorizer.mp4",
@@ -91,7 +91,7 @@
             "max_height": 1024
         },
         {
-            "id": 38,
+            "effect_id": 38,
             "title": "Age transition",
             "image_path": "webp/ai_tools/age_transition.webp",
             "video_path": "video/ai_tools/age_transition.mp4",
@@ -101,7 +101,7 @@
             "max_height": 1024
         },
         {
-            "id": 10,
+            "effect_id": 10,
             "title": "Animate",
             "image_path": "webp/ai_tools/animate.webp",
             "video_path": "video/ai_tools/animate.mp4",
@@ -111,7 +111,7 @@
             "max_height": 1024
         },
         {
-            "id": 8,
+            "effect_id": 8,
             "title": "Image Flow",
             "image_path": "webp/ai_tools/image_flow.webp",
             "video_path": "video/ai_tools/image_flow.mp4",
@@ -121,7 +121,7 @@
             "max_height": 1024
         },
         {
-            "id": 7,
+            "effect_id": 7,
             "title": "Dynamic Zoom",
             "image_path": "webp/ai_tools/dynamic_zoom.webp",
             "video_path": "video/ai_tools/dynamic_zoom.mp4",
@@ -131,7 +131,7 @@
             "max_height": 1024
         },
         {
-            "id": 16,
+            "effect_id": 16,
             "title": "Open Eyes",
             "image_path": "webp/ai_tools/open_eyes.webp",
             "video_path": "video/ai_tools/open_eyes.mp4",
@@ -141,7 +141,7 @@
             "max_height": 1024
         },
         {
-            "id": 11,
+            "effect_id": 11,
             "title": "Pixar Effects",
             "image_path": "webp/ai_tools/pixar_effects.webp",
             "video_path": "video/ai_tools/pixar_effects.mp4",
@@ -151,7 +151,7 @@
             "max_height": 1024
         },
         {
-            "id": 12,
+            "effect_id": 12,
             "title": "3D Cartoon Avatar",
             "image_path": "webp/ai_tools/3d_cartoon_avatar.webp",
             "video_path": "video/ai_tools/3d_cartoon_avatar.mp4",
@@ -161,7 +161,7 @@
             "max_height": 1024
         },
         {
-            "id": 13,
+            "effect_id": 13,
             "title": "Angel",
             "image_path": "webp/ai_tools/angel.webp",
             "video_path": "video/ai_tools/angel.mp4",
@@ -171,7 +171,7 @@
             "max_height": 1024
         },
         {
-            "id": 14,
+            "effect_id": 14,
             "title": "Demon",
             "image_path": "webp/ai_tools/demon.webp",
             "video_path": "video/ai_tools/demon.mp4",
@@ -181,7 +181,7 @@
             "max_height": 1024
         },
         {
-            "id": 15,
+            "effect_id": 15,
             "title": "Cartoonized",
             "image_path": "webp/ai_tools/cartoonized.webp",
             "video_path": "video/ai_tools/cartoonized.mp4",
