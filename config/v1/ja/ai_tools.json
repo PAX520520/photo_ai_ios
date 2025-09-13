@@ -1,215 +1,215 @@
 {
-  "header_effect_id": 3,
-  "data": [
-    {
-      "effect_id": 3,
-      "title": "画像編集",
-      "image_path": "webp/ai_tools/enhance.webp",
-      "video_path": "video/ai_tools/enhance.mp4",
-      "icon_path": "png/sd/v1/enhance.png",
-      "gems": 6,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 1,
-      "title": "修理",
-      "image_path": "webp/ai_tools/repair.webp",
-      "video_path": "video/ai_tools/repair.mp4",
-      "icon_path": "png/sd/v1/repair.png",
-      "gems": 5,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 6,
-      "title": "背景除去",
-      "image_path": "webp/ai_tools/remove_background.webp",
-      "video_path": "video/ai_tools/remove_background.mp4",
-      "icon_path": "png/sd/v1/remove_background.png",
-      "gems": 5,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 9,
-      "title": "スーパーハイビジョン",
-      "image_path": "webp/ai_tools/super_hd.webp",
-      "video_path": "video/ai_tools/super_hd.mp4",
-      "icon_path": "png/sd/v1/super_hd.png",
-      "gems": 4,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 200,
-      "title": "物体除去",
-      "image_path": "webp/ai_tools/remove_object.webp",
-      "video_path": "video/ai_tools/remove_object.mp4",
-      "icon_path": "png/sd/v1/remove_object.png",
-      "gems": 5,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 18,
-      "title": "ポートレート美化",
-      "image_path": "webp/ai_tools/portrait_beautification.webp",
-      "video_path": "video/ai_tools/portrait_beautification.mp4",
-      "icon_path": "png/sd/v1/portrait_beautification.png",
-      "gems": 6,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 4,
-      "title": "ストレッチ修理",
-      "image_path": "webp/ai_tools/stretch_repair.webp",
-      "video_path": "video/ai_tools/stretch_repair.mp4",
-      "icon_path": "png/sd/v1/stretch_repair.png",
-      "gems": 4,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 5,
-      "title": "補正",
-      "image_path": "webp/ai_tools/correction.webp",
-      "video_path": "video/ai_tools/correction.mp4",
-      "icon_path": "png/sd/v1/correction.png",
-      "gems": 4,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 2,
-      "title": "カラーリング",
-      "image_path": "webp/ai_tools/colorizer.webp",
-      "video_path": "video/ai_tools/colorizer.mp4",
-      "icon_path": "png/sd/v1/colorizer.png",
-      "gems": 5,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 38,
-      "title": "年齢変化",
-      "image_path": "webp/ai_tools/age_transition.webp",
-      "video_path": "video/ai_tools/age_transition.mp4",
-      "icon_path": "png/sd/v1/age_transition.png",
-      "gems": 5,
-      "is_pro": false,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 10,
-      "title": "アニメーション",
-      "image_path": "webp/ai_tools/animate.webp",
-      "video_path": "video/ai_tools/animate.mp4",
-      "icon_path": "png/sd/v1/animate.png",
-      "gems": 6,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 8,
-      "title": "画像フロー",
-      "image_path": "webp/ai_tools/image_flow.webp",
-      "video_path": "video/ai_tools/image_flow.mp4",
-      "icon_path": "png/sd/v1/image_flow.png",
-      "gems": 4,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 7,
-      "title": "動的ズーム",
-      "image_path": "webp/ai_tools/dynamic_zoom.webp",
-      "video_path": "video/ai_tools/dynamic_zoom.mp4",
-      "icon_path": "png/sd/v1/dynamic_zoom.png",
-      "gems": 5,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 16,
-      "title": "目を開ける",
-      "image_path": "webp/ai_tools/open_eyes.webp",
-      "video_path": "video/ai_tools/open_eyes.mp4",
-      "icon_path": "png/sd/v1/open_eyes.png",
-      "gems": 4,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 11,
-      "title": "ピクサーエフェクト",
-      "image_path": "webp/ai_tools/pixar_effects.webp",
-      "video_path": "video/ai_tools/pixar_effects.mp4",
-      "icon_path": "png/sd/v1/pixar_effects.png",
-      "gems": 5,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 12,
-      "title": "3Dカートゥーンアバター",
-      "image_path": "webp/ai_tools/3d_cartoon_avatar.webp",
-      "video_path": "video/ai_tools/3d_cartoon_avatar.mp4",
-      "icon_path": "png/sd/v1/3d_cartoon_avatar.png",
-      "gems": 5,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 13,
-      "title": "エンジェル",
-      "image_path": "webp/ai_tools/angel.webp",
-      "video_path": "video/ai_tools/angel.mp4",
-      "icon_path": "png/sd/v1/angel.png",
-      "gems": 5,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 14,
-      "title": "デーモン",
-      "image_path": "webp/ai_tools/demon.webp",
-      "video_path": "video/ai_tools/demon.mp4",
-      "icon_path": "png/sd/v1/demon.png",
-      "gems": 5,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    },
-    {
-      "effect_id": 15,
-      "title": "カートゥーン化",
-      "image_path": "webp/ai_tools/cartoonized.webp",
-      "video_path": "video/ai_tools/cartoonized.mp4",
-      "icon_path": "png/sd/v1/cartoonized.png",
-      "gems": 5,
-      "is_pro": true,
-      "max_width": 1024,
-      "max_height": 1024
-    }
-  ],
-  "lang": "ja"
+	"header_effect_id": 3,
+	"data": [
+		{
+			"effect_id": 3,
+			"title": "画像強化",
+			"image_path": "webp/ai_tools/enhance.webp",
+			"video_path": "video/ai_tools/enhance.mp4",
+			"icon_path": "png/sd/v1/enhance.png",
+			"gems": 6,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 1,
+			"title": "修復",
+			"image_path": "webp/ai_tools/repair.webp",
+			"video_path": "video/ai_tools/repair.mp4",
+			"icon_path": "png/sd/v1/repair.png",
+			"gems": 5,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 6,
+			"title": "背景削除",
+			"image_path": "webp/ai_tools/remove_background.webp",
+			"video_path": "video/ai_tools/remove_background.mp4",
+			"icon_path": "png/sd/v1/remove_background.png",
+			"gems": 5,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 9,
+			"title": "スーパーHD",
+			"image_path": "webp/ai_tools/super_hd.webp",
+			"video_path": "video/ai_tools/super_hd.mp4",
+			"icon_path": "png/sd/v1/super_hd.png",
+			"gems": 4,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 200,
+			"title": "オブジェクト削除",
+			"image_path": "webp/ai_tools/remove_object.webp",
+			"video_path": "video/ai_tools/remove_object.mp4",
+			"icon_path": "png/sd/v1/remove_object.png",
+			"gems": 5,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 18,
+			"title": "ポートレート美化",
+			"image_path": "webp/ai_tools/portrait_beautification.webp",
+			"video_path": "video/ai_tools/portrait_beautification.mp4",
+			"icon_path": "png/sd/v1/portrait_beautification.png",
+			"gems": 6,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 4,
+			"title": "ストレッチ修復",
+			"image_path": "webp/ai_tools/stretch_repair.webp",
+			"video_path": "video/ai_tools/stretch_repair.mp4",
+			"icon_path": "png/sd/v1/stretch_repair.png",
+			"gems": 4,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 5,
+			"title": "補正",
+			"image_path": "webp/ai_tools/correction.webp",
+			"video_path": "video/ai_tools/correction.mp4",
+			"icon_path": "png/sd/v1/correction.png",
+			"gems": 4,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 2,
+			"title": "カラー化",
+			"image_path": "webp/ai_tools/colorizer.webp",
+			"video_path": "video/ai_tools/colorizer.mp4",
+			"icon_path": "png/sd/v1/colorizer.png",
+			"gems": 5,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 38,
+			"title": "年齢変換",
+			"image_path": "webp/ai_tools/age_transition.webp",
+			"video_path": "video/ai_tools/age_transition.mp4",
+			"icon_path": "png/sd/v1/age_transition.png",
+			"gems": 5,
+			"is_pro": false,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 10,
+			"title": "アニメーション",
+			"image_path": "webp/ai_tools/animate.webp",
+			"video_path": "video/ai_tools/animate.mp4",
+			"icon_path": "png/sd/v1/animate.png",
+			"gems": 6,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 8,
+			"title": "イメージフロー",
+			"image_path": "webp/ai_tools/image_flow.webp",
+			"video_path": "video/ai_tools/image_flow.mp4",
+			"icon_path": "png/sd/v1/image_flow.png",
+			"gems": 4,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 7,
+			"title": "ダイナミックズーム",
+			"image_path": "webp/ai_tools/dynamic_zoom.webp",
+			"video_path": "video/ai_tools/dynamic_zoom.mp4",
+			"icon_path": "png/sd/v1/dynamic_zoom.png",
+			"gems": 5,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 16,
+			"title": "目を開く",
+			"image_path": "webp/ai_tools/open_eyes.webp",
+			"video_path": "video/ai_tools/open_eyes.mp4",
+			"icon_path": "png/sd/v1/open_eyes.png",
+			"gems": 4,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 11,
+			"title": "ピクサー風",
+			"image_path": "webp/ai_tools/pixar_effects.webp",
+			"video_path": "video/ai_tools/pixar_effects.mp4",
+			"icon_path": "png/sd/v1/pixar_effects.png",
+			"gems": 5,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 12,
+			"title": "3Dカートゥーンアバター",
+			"image_path": "webp/ai_tools/3d_cartoon_avatar.webp",
+			"video_path": "video/ai_tools/3d_cartoon_avatar.mp4",
+			"icon_path": "png/sd/v1/3d_cartoon_avatar.png",
+			"gems": 5,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 13,
+			"title": "エンジェル",
+			"image_path": "webp/ai_tools/angel.webp",
+			"video_path": "video/ai_tools/angel.mp4",
+			"icon_path": "png/sd/v1/angel.png",
+			"gems": 5,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 14,
+			"title": "デーモン",
+			"image_path": "webp/ai_tools/demon.webp",
+			"video_path": "video/ai_tools/demon.mp4",
+			"icon_path": "png/sd/v1/demon.png",
+			"gems": 5,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		},
+		{
+			"effect_id": 15,
+			"title": "カートゥーン化",
+			"image_path": "webp/ai_tools/cartoonized.webp",
+			"video_path": "video/ai_tools/cartoonized.mp4",
+			"icon_path": "png/sd/v1/cartoonized.png",
+			"gems": 5,
+			"is_pro": true,
+			"max_width": 1024,
+			"max_height": 1024
+		}
+	],
+	"lang": "ja"
 }
