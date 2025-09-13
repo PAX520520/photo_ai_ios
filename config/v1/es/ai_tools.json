@@ -1,0 +1,215 @@
+{
+  "header_effect_id": 3,
+  "data": [
+    {
+      "effect_id": 3,
+      "title": "Aumento de imágenes",
+      "image_path": "webp/ai_tools/enhance.webp",
+      "video_path": "video/ai_tools/enhance.mp4",
+      "icon_path": "png/sd/v1/enhance.png",
+      "gems": 6,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 1,
+      "title": "Reparación",
+      "image_path": "webp/ai_tools/repair.webp",
+      "video_path": "video/ai_tools/repair.mp4",
+      "icon_path": "png/sd/v1/repair.png",
+      "gems": 5,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 6,
+      "title": "Eliminación de fondo",
+      "image_path": "webp/ai_tools/remove_background.webp",
+      "video_path": "video/ai_tools/remove_background.mp4",
+      "icon_path": "png/sd/v1/remove_background.png",
+      "gems": 5,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 9,
+      "title": "Super HD",
+      "image_path": "webp/ai_tools/super_hd.webp",
+      "video_path": "video/ai_tools/super_hd.mp4",
+      "icon_path": "png/sd/v1/super_hd.png",
+      "gems": 4,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 200,
+      "title": "Eliminar objeto",
+      "image_path": "webp/ai_tools/remove_object.webp",
+      "video_path": "video/ai_tools/remove_object.mp4",
+      "icon_path": "png/sd/v1/remove_object.png",
+      "gems": 5,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 18,
+      "title": "Mejoramiento de retratos",
+      "image_path": "webp/ai_tools/portrait_beautification.webp",
+      "video_path": "video/ai_tools/portrait_beautification.mp4",
+      "icon_path": "png/sd/v1/portrait_beautification.png",
+      "gems": 6,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 4,
+      "title": "Reparación de estiramiento",
+      "image_path": "webp/ai_tools/stretch_repair.webp",
+      "video_path": "video/ai_tools/stretch_repair.mp4",
+      "icon_path": "png/sd/v1/stretch_repair.png",
+      "gems": 4,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 5,
+      "title": "Corrección",
+      "image_path": "webp/ai_tools/correction.webp",
+      "video_path": "video/ai_tools/correction.mp4",
+      "icon_path": "png/sd/v1/correction.png",
+      "gems": 4,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 2,
+      "title": "Colorizador",
+      "image_path": "webp/ai_tools/colorizer.webp",
+      "video_path": "video/ai_tools/colorizer.mp4",
+      "icon_path": "png/sd/v1/colorizer.png",
+      "gems": 5,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 38,
+      "title": "Transición de edad",
+      "image_path": "webp/ai_tools/age_transition.webp",
+      "video_path": "video/ai_tools/age_transition.mp4",
+      "icon_path": "png/sd/v1/age_transition.png",
+      "gems": 5,
+      "is_pro": false,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 10,
+      "title": "Animar",
+      "image_path": "webp/ai_tools/animate.webp",
+      "video_path": "video/ai_tools/animate.mp4",
+      "icon_path": "png/sd/v1/animate.png",
+      "gems": 6,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 8,
+      "title": "Flujo de imágenes",
+      "image_path": "webp/ai_tools/image_flow.webp",
+      "video_path": "video/ai_tools/image_flow.mp4",
+      "icon_path": "png/sd/v1/image_flow.png",
+      "gems": 4,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 7,
+      "title": "Zoom dinámico",
+      "image_path": "webp/ai_tools/dynamic_zoom.webp",
+      "video_path": "video/ai_tools/dynamic_zoom.mp4",
+      "icon_path": "png/sd/v1/dynamic_zoom.png",
+      "gems": 5,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 16,
+      "title": "Ojos abiertos",
+      "image_path": "webp/ai_tools/open_eyes.webp",
+      "video_path": "video/ai_tools/open_eyes.mp4",
+      "icon_path": "png/sd/v1/open_eyes.png",
+      "gems": 4,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 11,
+      "title": "Pixar Efectos",
+      "image_path": "webp/ai_tools/pixar_effects.webp",
+      "video_path": "video/ai_tools/pixar_effects.mp4",
+      "icon_path": "png/sd/v1/pixar_effects.png",
+      "gems": 5,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 12,
+      "title": "Avatar en 3D animado",
+      "image_path": "webp/ai_tools/3d_cartoon_avatar.webp",
+      "video_path": "video/ai_tools/3d_cartoon_avatar.mp4",
+      "icon_path": "png/sd/v1/3d_cartoon_avatar.png",
+      "gems": 5,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 13,
+      "title": "Ángel",
+      "image_path": "webp/ai_tools/angel.webp",
+      "video_path": "video/ai_tools/angel.mp4",
+      "icon_path": "png/sd/v1/angel.png",
+      "gems": 5,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 14,
+      "title": "Demon",
+      "image_path": "webp/ai_tools/demon.webp",
+      "video_path": "video/ai_tools/demon.mp4",
+      "icon_path": "png/sd/v1/demon.png",
+      "gems": 5,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    },
+    {
+      "effect_id": 15,
+      "title": "Caricaturizado",
+      "image_path": "webp/ai_tools/cartoonized.webp",
+      "video_path": "video/ai_tools/cartoonized.mp4",
+      "icon_path": "png/sd/v1/cartoonized.png",
+      "gems": 5,
+      "is_pro": true,
+      "max_width": 1024,
+      "max_height": 1024
+    }
+  ],
+  "lang": "es"
+}
